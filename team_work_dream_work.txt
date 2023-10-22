@@ -2,5 +2,4 @@ Hello there!
 
 General Kenobi...
 
-This additional text is better.
-This information is important also.
+Some additional text, for variety.
