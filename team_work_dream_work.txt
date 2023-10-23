@@ -2,5 +2,5 @@ Hello there!
 
 General Kenobi...
 
-Some new additional text.
-More information.
+
+Some additional text, for variety.
